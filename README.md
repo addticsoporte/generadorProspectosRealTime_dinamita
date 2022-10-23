@@ -22,9 +22,7 @@ Y en la misma carpeta se van guardando los archivos .CSV que se van creando depe
 
 Este programa necesita de conectarse con una base de datos creada en MySQL Workbench de modo local. 
 
-### Acceso al archivo de la base de datos
 
-El folder de la pequeña base de datos se encuentra aquí y se llama "retargettingmysql"
 
 Sin embargo, la idea de este programa es demostrar que cada cierto tiempo esta preparado este programa para ejecutar la tarea de crear un archivo CSV.
 
